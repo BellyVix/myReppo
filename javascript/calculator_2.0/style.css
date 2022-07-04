@@ -1,0 +1,16 @@
+/* .container{
+    width: 1000px;
+    height: 800px;
+
+    display: grid;
+    grid-template-columns: minmax(auto,1000px) repeat(5,1fr);
+    gap: 1rem;
+    grid
+    
+} */
+/* .display{
+    grid-column: 1 / -1;
+    background-color: beige;
+    color: black;
+    border-radius: 2rem;
+} */

@@ -1,0 +1,66 @@
+{
+  "api": [
+    {
+      "username": "Joe Dalton",
+      "id": 2
+    },
+    {
+      "username": "student123",
+      "password": "root 2323",
+      "id": 5
+    },
+    {
+      "username": "student123",
+      "password": "rooot 11111111111",
+      "id": 6
+    },
+    {
+      "username": "student123",
+      "password": "rooot 11111111111",
+      "id": 7
+    },
+    {
+      "username": "student123",
+      "password": "rooot 11111111111",
+      "id": 8
+    },
+    {
+      "username": "student123",
+      "password": "rooot 11111111111",
+      "id": 9
+    },
+    {
+      "username": "student123",
+      "password": "root 2323",
+      "id": 10
+    },
+    {
+      "username": "student123",
+      "password": "rooot 11111111111",
+      "id": 11
+    },
+    {
+      "username": "Joe Dalton",
+      "id": 12
+    },
+    {
+      "username": "student123",
+      "password": "rooot 11111111111",
+      "id": 13
+    }
+  ],
+  "product": [
+    {
+      "username": "Ned",
+      "password": "rooot34234",
+      "id": 2
+    },
+    {
+      "username": "Ned",
+      "password": "rooot34234",
+      "producttype": "computer",
+      "id": 3,
+      "price": " 199"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+.game-container {
+  display: grid;
+
+  grid-row: 1fr;
+  align-items: center;
+  justify-content: center;
+
+  width: 1000px;
+  height: 1000px;
+  background-color: rgb(9, 9, 9);
+  border: 5px solid rgb(6, 6, 6);
+  box-shadow: 3px 2px 5px 4px rgb(66, 92, 242),
+    -3px -2px 5px 4px rgb(66, 92, 242),
+    -5px -5px 10px 6px rgba(255, 255, 255, 0.714),
+    5px 5px 10px 6px rgba(255, 255, 255, 0.714);
+  border-radius: 20px 20px;
+}
+#photo1 {
+  padding: 5px;
+  width: 410px;
+  height: 610px;
+  border-radius: 20px 20px;
+  box-shadow: 3px 2px 5px 4px rgb(199, 146, 146),
+    -2px -3px 10px 6px rgba(248, 241, 241, 0.714);
+}
+#photo2 {
+  padding: 5px;
+  width: 410px;
+  height: 610px;
+  border-radius: 20px 20px;
+  box-shadow: 3px 2px 5px 4px rgb(199, 146, 146),
+    -2px -3px 10px 6px rgba(248, 241, 241, 0.714);
+}
+.photoContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 30px;
+}
+.result-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+#result,
+#result1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 370px;
+  height: 50px;
+  background-color: rgb(250, 249, 249);
+  border-radius: 20px;
+  background-color: rgb(250, 0, 0);
+  box-shadow: 3px 2px 5px 4px #9ef7ef, -2px -3px 10px 6px #f8f1f1b6;
+  border-radius: 20px 20px;
+  
+}
+.button{
+    display: flex;
+    justify-content: center;
+}
+#play {
+  width: 800px;
+  height: 158px;
+  font-size: 3rem;
+  border-radius: 5px 5px 20px 20px;
+  box-shadow: 3px 2px 5px 4px #c79292, -2px -3px 10px 6px #f8f1f1b6;
+  border-radius: 20px 20px;
+}
