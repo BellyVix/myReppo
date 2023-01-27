@@ -134,4 +134,4 @@ console.log ( hero.name) // normal use wit   .
 console.log  ( hero["name"])    // with   []
  console.log ( name )  // with destructuring 
 
- // test 
+ 
